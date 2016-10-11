@@ -38,6 +38,20 @@ Saran:
 
 Saran dari saya yaitu agar penjelasan mata kuliah sistem informasi geografis dapat lebih kompleks lagi agar kita tidak kesulitan dalam memahami materi.
 
+* Nama: Yanda Rizky Prasetiya
+* NPM : 1144004
+* Kelas : 3C
+* Prodi : D4 Teknik Informatika
+* Mata Kuliah : Sistem Informasi Geografis
+
+link Github:
+
+https://github.com/yandarizky/sisteminformasigeografis
+
+
 Scan plagiarisme 
-1. https://drive.google.com/open?id=0ByZqhNt9UFJ2dkpwT3lyNEtJSjg 
+
+1. https://drive.google.com/open?id=0ByZqhNt9UFJ2dkpwT3lyNEtJSjg
+
 2. https://drive.google.com/open?id=0ByZqhNt9UFJ2WDBvVFpSdFRiSTQ
+
