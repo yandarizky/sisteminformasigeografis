@@ -59,7 +59,7 @@ referensi:
 https://geograph88.blogspot.co.id/2014/12/data-raster-dan-data-vektor.html
 
 Scan Plagiarisme:
-
+   
 1. https://drive.google.com/open?id=0ByZqhNt9UFJ2VG5QMmFKS2JxY00
 
 2. https://drive.google.com/open?id=0ByZqhNt9UFJ2VnhFWTQ2T0tZdUU
