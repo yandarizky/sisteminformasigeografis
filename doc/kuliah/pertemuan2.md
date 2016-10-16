@@ -2,7 +2,7 @@
 <p align="center">
   <img src="../../img/geo.jpg" width="400px">
 </p>
-
+ 
 **Latar Belakang Masalah**
 
 Seperti yang diketahui pengertian Geospasial adalah suatu ruang yang menunjukkan posisi dan lokasi suatu objek dipermukaan bumi.Gunung,air,lautan,jalanan itu merupakan contoh gambaran objek-objek yang ada dipermukaan bumi dan itu merupakan bagian dari data geospasial. Terdapat 2 macam data geospasial yaitu data raster dan data vektor.
