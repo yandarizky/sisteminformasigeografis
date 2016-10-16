@@ -17,7 +17,7 @@ Seperti yang diketahui pengertian Geospasial adalah suatu ruang yang menunjukkan
 **Data vektor** adalah data yang menampilkan dan mempresentasikan pola suatu ruang dimuka bumi dalam bentuk kurva,titik,garis dan polygon.data vektor ini biasanya digunakan untuk mempresentasikan jalan,gedung,rel kereta dan letak koordinat. berikut merupakan contoh dari data vektor:
 
 <p align="center">
-  <img src="../../img/datavektor.png" width="400px">
+  <img src="../../img/datavektor.PNG" width="400px">
 </p>
 Kelebihan dari data vektor ini sendiri yaitu ruang penyimpanannya lebih efisien dan memiliki resolusi spasial yang tinggi.
 
@@ -25,7 +25,7 @@ Kekurangan dari data raster ini sendiri yaitu data nya tidak mudah di manipulasi
 
 **Data Raster** adalah data yang menampilkan dan mempresentasikan pola suatu ruang dimuka bumi ke dalam bentuk pixel yang membentuk grid atau petak yang dihasilkan dari pengideraan jarak jauh. Data raster biasanya digunakan untuk menggambarkan jenis tanah,vegetasi dan kelembapan tanah.berikut merupakan contoh dari data raster:
 <p align="center">
-  <img src="../../img/dataraster.png" width="400px">
+  <img src="../../img/dataraster.PNG" width="400px">
 </p>
 Kelebihan dari data raster yaitu teknologi yanh dibutuhkan cukup murah serta datanya yang mudah dimanipulasi.
 
