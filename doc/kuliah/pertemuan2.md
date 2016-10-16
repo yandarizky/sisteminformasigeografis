@@ -43,9 +43,13 @@ Saran dari saya agar penjelasan mengenai geospasial ini lebih kompleks lagi agar
 
 
 Nama : yanda rizky prasetiya
+
 NPM : 1144004
+
 Kelas : 3C
+
 Prodi : D4 Teknik Informatika
+
 Mata Kuliah : Sistem Informasi Geografis
 
 Link github:
