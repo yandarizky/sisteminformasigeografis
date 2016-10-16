@@ -40,3 +40,20 @@ Dengan adanya penjelasan-penjelasan diatas maka dapat disimpulkan bahwa data vek
 Saran:
 
 Saran dari saya agar penjelasan mengenai geospasial ini lebih kompleks lagi agar kita dapat mengetahui dengan jelas mengenai data geospasial terutama pada data vektor dan data raster.
+
+
+Nama : yanda rizky prasetiya
+NPM : 1144004
+Kelas : 3C
+Prodi : D4 Teknik Informatika
+Mata Kuliah : Sistem Informasi Geografis
+
+Link github:
+https://github.com/yandarizky/sisteminformasigeografis
+
+referensi:
+https://geograph88.blogspot.co.id/2014/12/data-raster-dan-data-vektor.html
+
+Scan Plagiarisme:
+1. https://drive.google.com/open?id=0ByZqhNt9UFJ2VG5QMmFKS2JxY00
+2. https://drive.google.com/open?id=0ByZqhNt9UFJ2VnhFWTQ2T0tZdUU
