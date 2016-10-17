@@ -41,6 +41,9 @@ Saran:
 
 Saran dari saya agar penjelasan mengenai geospasial ini lebih kompleks lagi agar kita dapat mengetahui dengan jelas mengenai data geospasial terutama pada data vektor dan data raster.
 
+Link github:
+
+https://github.com/yandarizky/sisteminformasigeografis
 
 Nama : yanda rizky prasetiya
 
@@ -52,8 +55,7 @@ Prodi : D4 Teknik Informatika
 
 Mata Kuliah : Sistem Informasi Geografis
 
-Link github:
-https://github.com/yandarizky/sisteminformasigeografis
+Link mata kuliah: www.awangga.net
 
 referensi:
 https://geograph88.blogspot.co.id/2014/12/data-raster-dan-data-vektor.html
