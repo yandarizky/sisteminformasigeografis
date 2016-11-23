@@ -2,7 +2,7 @@
 **RESUME PERTEMUAN 6 SISTEM INFORMASI GEOGRAFIS**
 
 <p align="center">
-  <img src="../../img/23.JPG" width="400px">
+  <img src="../../img/23.png" width="400px">
 </p>
 
 **Latar Belakang Masalah**
