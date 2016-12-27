@@ -44,7 +44,7 @@
 
 6. install Vwsqi
 
-**Cara Testing: **
+**Cara Testing:**
 
 1. Download peta Indonesia beserta map proxy konfigurasinya di Halaman Download simpan di folder/var
 
