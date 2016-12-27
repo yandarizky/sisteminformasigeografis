@@ -79,6 +79,7 @@ Mata Kuliah : Sistem Informasi Geografis
 Link mata kuliah: www.awangga.net
 
 referensi: 1. https://id.wikipedia.org/wiki/MapServer
+	   
 	   2. http://hollydude.blogspot.co.id/2011/12/proxy-dan-port-pengertian-cara-kerja.html
 
 Scan Plagiarisme:
