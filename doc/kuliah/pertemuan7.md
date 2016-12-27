@@ -26,23 +26,25 @@
 
 3. Dicentos buka terminal, login sebagai root
 
-4. #install mapserver 5. Selesai
+4. install mapserver 
+
+5. Selesai
 
 **Cara Install Map Proxy:**
 
 1. Install python-pip dan python-dev
 
-2. #install python-pip dan python-dev
+2. install python-pip dan python-dev
 
 3. pip Install mapproxy
 
-4. #install mapproxy
+4. install mapproxy
 
 5. Install Vwsqi
 
-6. #install Vwsqi
+6. install Vwsqi
 
-**Cara testing Testing: **
+**Cara Testing: **
 
 1. Download peta Indonesia beserta map proxy konfigurasinya di Halaman Download simpan di folder/var
 
@@ -50,7 +52,7 @@
 
 3. Peta seudah bisa diakses di browser localhost
 
-**Penu**** tup**
+**Penutup**
 
 **Kesimpulan**
 
@@ -77,7 +79,6 @@ Mata Kuliah : Sistem Informasi Geografis
 Link mata kuliah: www.awangga.net
 
 referensi: 1. https://id.wikipedia.org/wiki/MapServer
-
 	   2. http://hollydude.blogspot.co.id/2011/12/proxy-dan-port-pengertian-cara-kerja.html
 
 Scan Plagiarisme:
