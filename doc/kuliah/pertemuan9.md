@@ -38,9 +38,11 @@ Web Coverage Service (WCS) merupakan raster standar pelayanan OGC yang mengambil
 **PENUTUP**
 
 **KESIMPULAN**
+
 Dari penjelasan-penjelasan diatas dapat disimpulkan bahwa Web service geospatial adalah bagian dari OGC(open geospatial consortium) untuk kebutuhan penggunaan data geospatial di pemrograman berbasis GIS dan Open Geospatial Consorium adalah organisasi internasional yang mengatur standar format penggunaan data geospasial.
 
 **Saran**
+
 Diharapkan memahami materi secara mendetail dan mencari bacaan-bacaan yang lain agar lebih paham dan banyak pengetahuan.
 
 Link github:
